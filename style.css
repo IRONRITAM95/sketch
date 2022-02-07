@@ -1,0 +1,40 @@
+.body{
+   background-color: khaki;
+   font-family: 'Lobster', cursive;
+}
+#header{
+    margin-top: 10px;
+    background-color:orange;
+    height: 7%;
+}
+#sketches{
+    float: right;
+    padding: 5px;
+    font-size: 20px;
+    background-color:orangered;
+    border-radius: 10px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+#CLEAR{
+    margin-top: 525px;
+    font-size: 25px;
+}
+#head{
+    display: inline;
+}
+canvas{
+background-color: antiquewhite;
+border-style: solid;
+border: aqua;
+border-radius: 5px;
+margin-top: 100px;
+border-color: rgb(59, 59, 59);
+border-width: 7px;
+border-style: ridge;
+border-radius: 25px;
+}
+#header:hover{
+    background-color: maroon;
+    color: mintcream;
+}
